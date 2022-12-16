@@ -1,4 +1,6 @@
-# sticky-table-header-box-shadow
+# bootstrap-sticky-table-header-box-shadow
+
+Bootstrap v5 table with sticky header with box-shadow
 
 ## Usage
 
